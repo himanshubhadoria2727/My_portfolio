@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/0.png',
       tags: ['JavaScript', 'HTML', 'React','Bootstrap','MongoDb'],
     Code: 'https://github.com/himanshubhadoria2727/Stress_app',
-    visit: 'https://www.stressaway.in/user',
+    visit: 'https://www.stressaway.in/',
     id: 0,
   },
   {
