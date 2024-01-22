@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Stress App',
-    description: "Created a fully funtional React app that allows you to seamlessly assess your mental state through personalized questions, schedule confidential video consultations withcertified professionals, and enjoy secure payments with Razorpay integration.",
+    description: "Created a fully functional React app that allows you to seamlessly assess your mental state through personalized questions, schedule confidential video consultations withcertified professionals, and enjoy secure payments with Razorpay integration.",
       image: '/images/0.png',
       tags: ['JavaScript', 'HTML', 'React','Bootstrap','MongoDb'],
     Code: 'https://github.com/himanshubhadoria2727/Stress_app',
