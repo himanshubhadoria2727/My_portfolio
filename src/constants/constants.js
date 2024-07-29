@@ -1,11 +1,38 @@
 export const projects = [
   {
+    title: 'Backlinks provider app',
+    description: "I created a backlink providing app that helps users acquire high-quality backlinks to boost their website's SEO. It identifies relevant sites, automates outreach, and tracks backlink performance, enhancing online visibility and driving organic traffic.",
+      image: '/images/6.png',
+      tags: ['Nextjs', 'Laravel','Mysql','Tailwind','Mailhog'],
+    // Code: 'https://goodblogger.com',
+    visit: 'https://goodblogger.co',
+    id: 2,
+  },
+  {
+    title: 'Eyewear website',
+    description: "I created an eyewear website that offers a wide range of stylish and high-quality glasses. The site features an easy-to-use interface, virtual and 3D try-on options, and detailed product descriptions to help customers find the perfect pair. ",
+      image: '/images/7.png',
+      tags: ['JavaScript', 'HTML', 'React','Bootstrap','MongoDb'],
+    Code: 'https://github.com/himanshubhadoria2727/Stress_app',
+    visit: 'https://lincolneyewear.com',
+    id: 0,
+  },
+  {
     title: 'Stress App',
     description: "Created a fully functional React app that allows you to seamlessly assess your mental state through personalized questions, schedule confidential video consultations withcertified professionals, and enjoy secure payments with Razorpay integration.",
       image: '/images/0.png',
       tags: ['JavaScript', 'HTML', 'React','Bootstrap','MongoDb'],
     Code: 'https://github.com/himanshubhadoria2727/Stress_app',
     visit: 'https://www.stressaway.in/',
+    id: 0,
+  },
+  {
+    title: 'CMS E-commerce',
+    description: "I created an e-commerce website on WordPress for an electronics goods store. The site features customizable themes, easy navigation, and robust functionality, allowing users to efficiently manage products, orders, and content. Leveraging powerful plugins, the website offers enhanced SEO, analytics.",
+      image: '/images/8.png',
+      tags: ['Wordpress','Woocommerce','Elementor','Jwt'],
+    Code: 'https://github.com/himanshubhadoria2727/Restaurant_app',
+    visit: 'https://premmobiles.com/',
     id: 0,
   },
   {
@@ -27,15 +54,6 @@ export const projects = [
     id: 1,
   },
   // {
-  //   title: 'WebRTC App',
-  //   description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-  //     image: '/images/3.jpg',
-  //     tags: ['React', 'WebRTC'],
-  //   Code: 'https://google.com',
-  //   visit: 'https://google.com',
-  //   id: 2,
-  // },
-  // {
   //   title: 'Unichat',
   //   description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
   //   image: '/images/4.jpg',
@@ -48,8 +66,9 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2019, text: 'Graduated from Army Public Scool, Gwalior', },
-  { year: 2021, text: 'Completed an internship in The Sparks Foundation as a data science and business analyst', },
+  { year: 2021, text: 'Completed an internship in The Sparks Foundation', },
   { year: 2021, text: 'Completed an internship Internshala on machince learning', },
   { year: 2022, text: 'Minor degree in Data Science', },
   { year: 2023, text: 'Graduated from Amity University, Gwalior, M.p', },
+  { year: 2024, text: 'Working at Darkhorse Ltd as an intern and freelancer', },
 ];

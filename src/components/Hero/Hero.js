@@ -22,10 +22,10 @@ const Hero = (props) => (
           Himanshu Bhadoria
           </SectionTitle>
         <SectionText>
-        I am a Front-End developer with hands on skills in making user interfaces for web and android applications.
+        I am a full-stack developer with hands-on experience in creating seamless web and Android applications.
         </SectionText>
         <div classname="button">
-        <a href="/resume.pdf" download="resume.pdf">
+        <a href="Himanshu_resume_latest.pdf" download="Himanshu_resume_latest.pdf">
           <button style={buttonStyle}>Download Resume</button>
         </a>
         
