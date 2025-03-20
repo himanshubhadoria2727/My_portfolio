@@ -9,15 +9,6 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Eyewear website',
-    description: "I created an eyewear website that offers a wide range of stylish and high-quality glasses. The site features an easy-to-use interface, virtual and 3D try-on options, and detailed product descriptions to help customers find the perfect pair. ",
-      image: '/images/7.png',
-      tags: ['JavaScript', 'HTML', 'React','Bootstrap','MongoDb'],
-    Code: 'https://github.com/himanshubhadoria2727/Stress_app',
-    visit: 'https://lincolneyewear.com',
-    id: 0,
-  },
-  {
     title: 'Houseopia',
     description: "Built a property listing and real estate platform for advanced property search and management. Integrated in-app calling, chatting, and live streaming features using Agora to ensure agent anonymity. Developed using Laravel, Tailwind CSS, and MySQL for a scalable backend and modern UI.",
       image: '/images/9.png',
@@ -26,6 +17,16 @@ export const projects = [
     visit: 'https://houseopia.com',
     id: 0,
   },
+  {
+    title: 'Eyewear website',
+    description: "I created an eyewear website that offers a wide range of stylish and high-quality glasses. The site features an easy-to-use interface, virtual and 3D try-on options, and detailed product descriptions to help customers find the perfect pair. ",
+      image: '/images/7.png',
+      tags: ['JavaScript', 'HTML', 'React','Bootstrap','MongoDb'],
+    Code: '',
+    visit: 'https://lincolneyewear.com',
+    id: 0,
+  },
+  
   {
     title: 'Stress App',
     description: "Created a fully functional React app that allows you to seamlessly assess your mental state through personalized questions, schedule confidential video consultations withcertified professionals, and enjoy secure payments with Razorpay integration.",
