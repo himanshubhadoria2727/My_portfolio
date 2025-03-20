@@ -25,7 +25,7 @@ const Hero = (props) => (
         I am a full-stack developer with hands-on experience in creating seamless web and Android applications.
         </SectionText>
         <div classname="button">
-        <a href="Himanshu_resume_latest.pdf" download="Himanshu_resume_latest.pdf">
+        <a href="Himanshu_resume.pdf" download="Himanshu_resume.pdf">
           <button style={buttonStyle}>Download Resume</button>
         </a>
         

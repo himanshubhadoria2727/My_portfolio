@@ -18,6 +18,15 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Houseopia',
+    description: "Built a property listing and real estate platform for advanced property search and management. Integrated in-app calling, chatting, and live streaming features using Agora to ensure agent anonymity. Developed using Laravel, Tailwind CSS, and MySQL for a scalable backend and modern UI.",
+      image: '/images/9.png',
+      tags: ['Laravel','Mysql','Tailwind','GoogleSMTP'],
+    // Code: 'https://goodblogger.com',
+    visit: 'https://houseopia.com',
+    id: 0,
+  },
+  {
     title: 'Stress App',
     description: "Created a fully functional React app that allows you to seamlessly assess your mental state through personalized questions, schedule confidential video consultations withcertified professionals, and enjoy secure payments with Razorpay integration.",
       image: '/images/0.png',
@@ -44,15 +53,15 @@ export const projects = [
     visit: 'https://restaurant-app-22d61.web.app/',
     id: 0,
   },
-  {
-    title: 'E-Commerce',
-    description:"Made an E-commerce website using React. Its a mere replica of Amazon with functionality like add to card , remove from cart , subtotal , User login etc.",
-    image: '/images/2.png',
-    tags: ['React', 'JavaScript', 'CSS'],
-    Code: 'https://github.com/himanshubhadoria2727/Amazon-Clone',
-    visit: 'https://amazn-ecommerce.netlify.app/',
-    id: 1,
-  },
+  // {
+  //   title: 'E-Commerce',
+  //   description:"Made an E-commerce website using React. Its a mere replica of Amazon with functionality like add to card , remove from cart , subtotal , User login etc.",
+  //   image: '/images/2.png',
+  //   tags: ['React', 'JavaScript', 'CSS'],
+  //   Code: 'https://github.com/himanshubhadoria2727/Amazon-Clone',
+  //   visit: 'https://amazn-ecommerce.netlify.app/',
+  //   id: 1,
+  // },
   // {
   //   title: 'Unichat',
   //   description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
@@ -70,5 +79,5 @@ export const TimeLineData = [
   { year: 2021, text: 'Completed an internship Internshala on machince learning', },
   { year: 2022, text: 'Minor degree in Data Science', },
   { year: 2023, text: 'Graduated from Amity University, Gwalior, M.p', },
-  { year: 2024, text: 'Working at Darkhorse Ltd as an intern and freelancer', },
+  { year: 2024, text: 'Working as a Freelancer', },
 ];
